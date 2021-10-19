@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olgaDolinger
 - 👀 I’m interested in JS, React, Node.js
-- 🌱 I’m currently learning Node.jd=s
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on all said above
 - 📫 How to reach me: helga_iv (skype)
 
